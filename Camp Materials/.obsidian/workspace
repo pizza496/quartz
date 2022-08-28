@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "e57d9b479373fa2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a92c202dbd982e1c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "source"
+          }
+        },
+        "group": "7e5817a027471981"
+      },
+      {
+        "id": "ef156be3ec399b10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7e5817a027471981"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4fea2732d97b005",
+    "type": "split",
+    "children": [
+      {
+        "id": "f09d6cfea7e1bab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe7b956f50741b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "897706e8b19a008b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66b112d71f4d6068",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28571e361b06cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6728dc24d37e4f00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0af28710036783b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23cd35a3baee4682",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a92c202dbd982e1c",
+  "lastOpenFiles": [
+    "_index.md",
+    "Camp Materials/Songs/One Fat Hen.md",
+    "!Alert.md",
+    "templates/post.md"
+  ]
+}
