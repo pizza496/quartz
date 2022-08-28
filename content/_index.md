@@ -1,5 +1,5 @@
 ---
-title: Homepage Title
+title: Some Summer Camp Resources
 ---
 
 # Yet Another Online Summer Camp Resource Collection
