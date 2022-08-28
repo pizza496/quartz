@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.2
+title: Homepage Title
 ---
 
 ## This is an Example Page
