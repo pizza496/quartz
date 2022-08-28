@@ -1,0 +1,8 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./images",
+  "showFrontmatter": true,
+  "newLinkFormat": "absolute"
+}
