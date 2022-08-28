@@ -1,7 +1,12 @@
 ---
-title: Some Summer Camp Resources
+title: "Some Summer Camp Resources"
 ---
 
 # Yet Another Online Summer Camp Resource Collection
 
-[[Camp Materials/Songs/One Fat Hen]]
+### Songs
+
+One of the resources I'm gathering are songs. On this page is a list of all the songs I currently have, (somewhat) organized alphabetically.
+
+[[Songs]]
+

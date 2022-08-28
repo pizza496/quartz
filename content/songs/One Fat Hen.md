@@ -1,5 +1,5 @@
 ---
-title: One Fat Hen
+title: "One Fat Hen"
 tags:
 - Song
 - Non-Religious
@@ -17,7 +17,7 @@ tags:
 
 ### How the Song Works
 
-Like with the 12 days of Christmas, this song starts with just saying the first line, then the first and second, then first second and third, and so on. This song is also a #Repeat-After-Me song. As an example of how this works: on the fifth run through, the leader would say the first through fifth lines, then the audience would repeat those lines back to the leader.
+Like with the 12 days of Christmas, this song starts with just saying the first line, then the first and second, then first second and third, and so on. This song is also a Repeat After Me song. As an example of how this works: on the fifth run through, the leader would say the first through fifth lines, then the audience would repeat those lines back to the leader.
 
 ### Lyrics
 
