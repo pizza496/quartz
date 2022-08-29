@@ -13,46 +13,46 @@ tags:
 
 ### Lyrics
 
-*Repeats 3 times*: Baby shark do doo do do do-do
+*Repeats 3 times*: Baby shark do doo do do do-do  
 Baby shark
 
-*Repeats 3 times*: Mama shark do doo do do do-do
+*Repeats 3 times*: Mama shark do doo do do do-do  
 Mama shark
 
-*Repeats 3 times*: Daddy shark do doo do do do-do
+*Repeats 3 times*: Daddy shark do doo do do do-do  
 Daddy shark
 
-*Repeats 3 times*: Grandma shark do doo do do do-do 
+*Repeats 3 times*: Grandma shark do doo do do do-do  
 Grandma shark
 
-*Repeats 3 times*: Grandpa shark do doo do do do-do 
+*Repeats 3 times*: Grandpa shark do doo do do do-do  
 Grandpa shark
 
-*Repeats 3 times*: Person swimming do doo do do do-do 
+*Repeats 3 times*: Person swimming do doo do do do-do  
 Person swimming
 
-*Repeats 3 times*: Hungry shark do doo do do do-do 
+*Repeats 3 times*: Hungry shark do doo do do do-do  
 Hungry shark
 
-*Repeats 3 times*: Shark attack do doo do do do-do 
+*Repeats 3 times*: Shark attack do doo do do do-do  
 Shark attack
 
-*Repeats 3 times*: Swim to shore do doo do do do-do 
+*Repeats 3 times*: Swim to shore do doo do do do-do  
 Swim to shore
 
-*Repeats 3 times*: Lost an arm do doo do do do-do 
+*Repeats 3 times*: Lost an arm do doo do do do-do  
 Lost an arm
 
-*Repeats 3 times*: Lost a leg do doo do do do-do 
+*Repeats 3 times*: Lost a leg do doo do do do-do  
 Lost a leg 
 
-*Repeats 3 times*: CPR do doo do do do-do 
+*Repeats 3 times*: CPR do doo do do do-do  
 CPR
 
-*Repeats 3 times*: It's too late do doo do do do-do 
+*Repeats 3 times*: It's too late do doo do do do-do  
 It's too late
 
-*Repeats 3 times*: Went to heaven do doo do do do-do 
+*Repeats 3 times*: Went to heaven do doo do do do-do  
 Went to heaven
 
 *Came back as a...* Baby shark...
