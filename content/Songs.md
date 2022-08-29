@@ -2,11 +2,8 @@
 title: "Songs"
 ---
 
-# Songs
-
----
-
 ### B:
-- **[[songs/Baby Shark|Baby Shark]]**: #Non-Religious, #Sing-Along
+- [[songs/Baby Shark|Baby Shark]]
+- [[songs/Bazooka Bubblegum]]
 ### O:
-- **[[songs/One Fat Hen|One Fat Hen]]**: #Non-Religious, #Repeat-After-Me, #Shout-It-Out 
+- [[songs/One Fat Hen|One Fat Hen]]
