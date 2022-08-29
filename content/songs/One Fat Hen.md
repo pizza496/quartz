@@ -5,13 +5,12 @@ tags:
 - Non-Religious
 - Repeat-After-Me
 - Shout-It-Out
-
 ---
 
 # One Fat Hen
 
 >[!Alert]
-> Like many camp songs, there are as many variations of this song as there are people singing this song. This is the version that I sing when leading, but if your version is different then sing that one. Either way, be prepared for at least some campers to tell you you're wrong. Some campers wont tell you you're wrong, they'll just sing it how they know it and ignore whatever you're doing.
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The same goes for campers bugging you/each other about how other people's versions of songs are different. The point of camp is to have fun, not get into arguments with each other about songs. 
 
 ---
 

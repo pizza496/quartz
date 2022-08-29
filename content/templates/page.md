@@ -1,7 +1,10 @@
 ---
-title: ""
+title: "{{title}}"
 tags:
 - 
 ---
 
-# 
+# {{title}}
+
+---
+
