@@ -18,45 +18,45 @@ For the most part this is a repeat after me song, but there is some deviation is
 
 ### Lyrics
 
-My mom gave me a penny
-She said go eat at Denny's
-But I didn't eat at Denny's
+My mom gave me a penny  
+She said go eat at Denny's  
+But I didn't eat at Denny's  
 
 Instead I bought some bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
-My mom gave me a nickel
-She said go buy a pickle
-But I didn't buy no pickle
+My mom gave me a nickel  
+She said go buy a pickle  
+But I didn't buy no pickle  
 
 Instead I bought some bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
-My mom gave me a dime
-She said go buy a lime
-But I didn't buy no lime
+My mom gave me a dime  
+She said go buy a lime  
+But I didn't buy no lime  
 
 Instead I bought some bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
-My mom gave me a quarter
-She said go buy some water
-But I didn't buy no water
+My mom gave me a quarter  
+She said go buy some water  
+But I didn't buy no water  
 
 Instead I bought some bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
-My mom gave me a dollar
-She said go buy a collar
-But I didn't buy no collar
+My mom gave me a dollar  
+She said go buy a collar  
+But I didn't buy no collar  
 
 Instead I bought some bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
-My mom gave me a five
-She said go stay alive
-But I didn't stay alive
+My mom gave me a five  
+She said go stay alive  
+But I didn't stay alive  
 
 Instead I **choked** on bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
-My mom gave me a seven
-She said come back from heaven
-So I came back from heaven
+My mom gave me a seven  
+She said come back from heaven  
+So I came back from heaven  
 
 **And then I bought more** bubblegum, bazooka-zooka bubblegum, bazooka-zooka bubblegum
 
