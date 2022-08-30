@@ -8,7 +8,7 @@ tags:
 ---
 
 >[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The same goes for campers bugging you/each other about how other people's versions of songs are different. The point of camp is to have fun, not get into arguments with each other about songs. 
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
 
 ---
 
@@ -46,6 +46,6 @@ For eight I:
 
 If you have your own hand gestures you like to do, then feel free and do them.
 
-### Fun things You can Do With One Fat Hen
+### Fun Things to Do With This Song
 
 If you're good at talking fast, something you can do to impress/scare campers is to try to sing this song as fast as possible. If you try this at a time when campers aren't required to listen to you, they may start getting a little bit bored in the beginning. Especially if they haven't heard this song before, ask if they want you to skip to ten to finish faster, then go at top speed all the way through the tenth run through.

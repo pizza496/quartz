@@ -7,7 +7,7 @@ tags:
 ---
 
 >[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The same goes for campers bugging you/each other about how other people's versions of songs are different. The point of camp is to have fun, not get into arguments with each other about songs. 
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
 
 ---
 
@@ -74,6 +74,6 @@ Went to heaven
 **It's too late**: Tap wrist indicating a watch
 **Went to heaven**: Link thumbs to make wings with hands (palms in), flap wings up to sky
 
-### Fun Things to do with this song:
+### Fun Things to Do With This Song
 
 At the end, that last baby shark can be the same as the baby shark at the beginning. You can also just continue singing as if the song will never end. 
