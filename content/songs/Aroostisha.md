@@ -1,8 +1,8 @@
 ---
 title: "Aroostisha"
 tags:
-- Non-Religious
 - Song
+- Non-Religious
 - Repeat-After-Me
 - Shout-It-Out
 ---
