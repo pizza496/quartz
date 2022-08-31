@@ -3,7 +3,7 @@ title: "Alive Awake Alert Enthusiastic"
 tags:
 - Song
 - Non-Religious
-- 
+- Shout-It-Out
 ---
 
 >[!Alert]

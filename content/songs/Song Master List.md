@@ -6,6 +6,7 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 
 ### A:
 - [[songs/Alive Awake Alert Enthusiastic|Alive Awake Alert Enthusiastic]]
+- [[songs/Anouncements Song]]
 - [[songs/Aroostisha|Aroostisha]]
 ### B:
 - [[songs/Baby Shark|Baby Shark]]
