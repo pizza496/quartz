@@ -1,5 +1,5 @@
 ---
-title: "Anouncements Song"
+title: "Announcements Song"
 tags:
 - Song
 - Non-Religious

@@ -6,7 +6,8 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 
 ### A:
 - [[songs/Alive Awake Alert Enthusiastic|Alive Awake Alert Enthusiastic]]
-- [[songs/Anouncements Song]]
+- [[songs/Allelu Allelu Allelu Alleluia|Allelu Allelu Allelu Alleluia (Praise ye the Lord)]]
+- [[songs/Announcements Song|Announcements Song]]
 - [[songs/Aroostisha|Aroostisha]]
 ### B:
 - [[songs/Baby Shark|Baby Shark]]
