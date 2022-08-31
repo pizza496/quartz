@@ -15,9 +15,9 @@ GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Some summer camp materials
+  Some summer camp materials.
 page_title:
   "Summer Camp Materials"
 links:
   - link_name: Contact Me (Email)
-    link: mailto:pizza496@gmail.com
+    link: mailto:pizza496+summercamp@gmail.com

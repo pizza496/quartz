@@ -13,11 +13,11 @@ tags:
 
 ### Lyrics
 
-I'm alive, awake, alert, enthusiastic!
-I'm alive, awake, alert, enthusiastic!
-I'm alive, awake, alert,
-I'm alert, awake, alive,
-I'm alive, awake, alert, enthusiastic!
+I'm alive, awake, alert, enthusiastic!  
+I'm alive, awake, alert, enthusiastic!  
+I'm alive, awake, alert,  
+I'm alert, awake, alive,  
+I'm alive, awake, alert, enthusiastic!  
 
 ### Hand Gestures
 
