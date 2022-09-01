@@ -30,6 +30,7 @@ One more time
 
 ### Other Styles
 
+
 | Style       | Lyric and/or Vocal Changes                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------- |
 | Janitor     | I said a broom sweep-a broom<br>I said a broom sweep-a mop-a, sweep-a mop-a, sweep-a broom           |
@@ -41,3 +42,7 @@ One more time
 
 > [!Alert]
 > There are absolutely more styles, but I either can't remember them, or don't know how to properly describe them. If you have a contribution to make, feel free to click the contact me button at the bottom of this page.
+
+### Fun Things to Do With This Song
+
+This song is good for camper engagement. Especially if campers like this song, they will have their favorite styles. This is a good opportunity to let them lead part of a song, especially if you need some time to come up with other versions.
