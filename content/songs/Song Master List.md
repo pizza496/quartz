@@ -14,5 +14,6 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 - [[songs/Bazooka Bubblegum|Bazooka Bubblegum]]
 - [[songs/Bump Another Butt|Bump Another Butt]]
 - [[songs/Boogaloo|Boogaloo]]
+- [[songs/Boom Chick-a Boom|Boom Chick-a Boom]]
 ### O:
 - [[songs/One Fat Hen|One Fat Hen]]
