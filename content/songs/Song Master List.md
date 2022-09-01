@@ -13,5 +13,6 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 - [[songs/Baby Shark|Baby Shark]]
 - [[songs/Bazooka Bubblegum|Bazooka Bubblegum]]
 - [[songs/Bump Another Butt|Bump Another Butt]]
+- [[songs/Boogaloo|Boogaloo]]
 ### O:
 - [[songs/One Fat Hen|One Fat Hen]]
