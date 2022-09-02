@@ -17,7 +17,7 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 - [[songs/Boom Chick-a Boom|Boom Chick-a Boom]]
 - [[songs/Bump Another Butt|Bump Another Butt]]
 ### N:
-- [[songs/No Place I'd Rather Be|No Place I'd Rather Be]]
+- [[songs/No Place Id Rather Be|No Place I'd Rather Be]]
 ### O:
 - [[songs/One Fat Hen|One Fat Hen]]
 ### P:
