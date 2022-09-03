@@ -22,5 +22,8 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 - [[songs/One Fat Hen|One Fat Hen]]
 ### P:
 - [[songs/Penguin Song|Penguin Song]]
-### R
+### R:
 - [[songs/Red Wagon|Red Wagon]]
+- [[songs/Rock In The Cradle|Rock In The Cradle]]
+### S:
+- [[songs/The Song That Never Ends|The Song That Never Ends]]
