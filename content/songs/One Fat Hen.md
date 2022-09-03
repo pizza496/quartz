@@ -7,11 +7,6 @@ tags:
 - Shout-It-Out
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How the Song Works
 
 Like with the 12 days of Christmas, this song starts with just saying the first line, then the first and second, then first second and third, and so on. This song is also a Repeat After Me song. As an example of how this works: on the fifth run through, the leader would say the first through fifth lines, then the audience would repeat those lines back to the leader.
@@ -49,3 +44,9 @@ If you have your own hand gestures you like to do, then feel free and do them.
 ### Fun Things to Do With This Song
 
 If you're good at talking fast, something you can do to impress/scare campers is to try to sing this song as fast as possible. If you try this at a time when campers aren't required to listen to you, they may start getting a little bit bored in the beginning. Especially if they haven't heard this song before, ask if they want you to skip to ten to finish faster, then go at top speed all the way through the tenth run through.
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

@@ -6,11 +6,6 @@ tags:
 - Shout-It-Out
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How This Song Works
 
 Start with the chorus. After shouting the chorus once, cycle through lines of the lyrics followed by the chorus again. Start with just the first line, then on the next cycle add the second line. Continue on like this for the rest of the song.
@@ -52,3 +47,9 @@ Penguin attention! Penguin salute!
 ### Notes
 
 Once right leg and left leg are both called, it is easier to alternate right and left leg so you aren't jumping. If a camper tries to jump make sure they're safe. 
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

@@ -6,11 +6,6 @@ tags:
 - Shout-It-Out
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How This Song Works
 
 This section is really important, because when done well this song can cause a wonderful echo for campers to hear. In most of my time as a camper, this song has been done around campfires. I personally find hearing the echo coming back out of the night is a really cool experience that makes camp much more fun.
@@ -24,3 +19,9 @@ This is the really important bit: on the third run through of the lyrics everyon
 Rock in the cradle
 Rock in the cradle
 Rock in the cradle in the deep blue sea
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

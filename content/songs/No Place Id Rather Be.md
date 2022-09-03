@@ -6,11 +6,6 @@ tags:
 - Non-Religious
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How This Song Works
 
 This song is specifically not a large group participation song. There are people singing, usually staff, and the people watching, usually the campers.
@@ -46,3 +41,9 @@ A [Character] I would be.
 | Plumber          | Plunge it! Flush it! Look out below!                              | Mime: using a plunger, flush a toilet, lean out a window and shout         |
 | Scientist        | Acid! Base! Blow up in your face! Ow!                             | Mix chemicals, mime explosion.                                             |
 | Valley Girl      | Totally! For sure! I just got a manicure!                         | Show fingers to the audience.                                                                           |
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

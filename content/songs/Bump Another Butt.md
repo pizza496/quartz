@@ -6,11 +6,6 @@ tags:
 - Sing-Along
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How This Song Works
 
 Start by singing the chorus once, then pick one of the verses and sing that verse, then go back to the chorus and repeat. There's no limit to how many verses you do or what order.
@@ -55,5 +50,8 @@ This page only contains two examples for possible verses. If you have others fee
 
 Also: especially for verses like bump another butt, people need to be conscious of whether others might be uncomfortable with the actions. It is best to make eye contact before any physical contact.
 
+---
 
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
 

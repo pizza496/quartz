@@ -6,11 +6,6 @@ tags:
 - Sing-Along
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### Lyrics
 
 *Repeats 3 times*: Baby shark do doo do do do-do  
@@ -77,3 +72,9 @@ Went to heaven
 ### Fun Things to Do With This Song
 
 At the end, that last baby shark can be the same as the baby shark at the beginning. You can also just continue singing as if the song will never end. 
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

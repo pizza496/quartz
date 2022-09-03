@@ -7,11 +7,6 @@ tags:
 - Shout-It-Out
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How This Song Works
 
 For the most part this is a repeat after me song, but there is some deviation is during the chorus, which are the lines talking about buying/choking on bubblegum. During the chorus, everyone is singing together all at once.
@@ -65,3 +60,9 @@ So I came back from heaven
 The only defined hand gestures or body movements in this song come in during the chorus, when everyone is singing together. Starting at bubblegum, everyone claps their hands together over their head, and spins in a circle.
 
 The only difference is on the second to last chorus when it says choked of bought, people hold their hands up to their throat as if they're choking and spins in a circle.
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

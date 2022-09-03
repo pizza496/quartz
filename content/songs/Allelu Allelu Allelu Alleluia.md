@@ -6,11 +6,6 @@ tags:
 - Sing-Along
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How this Song Works
 
 Split everyone up into two groups. This can be like splitting the audience at a campfire, or pairing everyone up and having them link both arms and stand back to back. 
@@ -62,3 +57,9 @@ When group 1 is singing, the pairs all turn so that the group 1 person in each p
 When group 2 is singing, just like with group 1, the pairs turn so that the group 2 member in each pair is facing the front. 
 
 During the last line, since it is both bold and italicized, groups can turn halfway so that when turning their heads, both members are looking to the front.
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

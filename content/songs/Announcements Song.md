@@ -6,11 +6,6 @@ tags:
 - Shout-It-Out
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How this Song Works
 
 This song starts with someone in staff telling the camp that they've got an announcement. Upon hearing about the impending announcement, the camp all starts singing the Announcements Song.
@@ -57,3 +52,9 @@ Announcements, announcements, announcements
 ### Notes
 
 I've only seen the first verse in common use, but I decided to include all the lyrics I had because some of them get really funny. Keep in mind, some of the later verses might not be the most appropriate depending on camper's ages. The first three are all pretty tame, but the fourth and fifth are a little less so.
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+

@@ -7,11 +7,6 @@ tags:
 - Shout-It-Out
 ---
 
->[!Alert]
-> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
-
----
-
 ### How This Song Works
 
 The person(s) leading the song shout out one line and wait for the group to repeat it, this continues on throughout the entire song.
@@ -45,4 +40,10 @@ One more time
 
 ### Fun Things to Do With This Song
 
-This song is good for camper engagement. Especially if campers like this song, they will have their favorite styles. This is a good opportunity to let them lead part of a song, especially if you need some time to come up with other versions.
+This song is good for camper engagement. Especially if campers like this song, they will have their favorite styles. This is a good opportunity to let them lead part of a song, especially if you need some time to come up with other versions
+
+---
+
+>[!Alert]
+> This is my version. Yours may be different, and that's ok. Regardless, bugging me about how mine is wrong because it isn't the exact same as yours doesn't help. The point of camp is to have fun and having people complaining about someone running some activity differently makes everything less fun.
+
