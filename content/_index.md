@@ -4,9 +4,9 @@ title: "Some Summer Camp Resources"
 
 # Yet Another Online Summer Camp Resource Collection
 
-Hello! This is a personal project I'm working on in my spare time to write out and upload various summer camp focused resources like songs and games that I've either played/sang while at summer camp myself, or that I've helped lead as a counselor. 
+Hello! This is a personal project I'm working on in my spare time to write out and upload various summer camp focused resources like songs and games that I've either played/sang while at summer camp myself, or that I've helped lead as a counselor. If at some point I talk about what campers might do, this is probably going to be in reference to campers at overnight summer camps or weekend youth retreats run by the NCNCUCC's Youth & Outdoor Ministries.
 
-If you have a game or song you want to see in these lists feel free to hit the contact me button at the bottom of every page and send me an email. If you want to help by recording a video of yourself and maybe others singing the song or playing the game or whatever it is you're doing, your help would be very much appreciated.
+If you have some camp song or game or skit or whatever you want to see in these lists feel free to hit the contact me button at the bottom of every page and send me an email. If you want to help by recording a video of yourself and maybe others singing the song or playing the game or whatever it is you're doing, your help would be very much appreciated.
 
 ### [[songs/Song Master List|Songs]]
 

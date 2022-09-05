@@ -13,6 +13,7 @@ Below you can find a list of what is hopefully all the songs I've written up so 
 - [[songs/Baby Shark|Baby Shark]]
 - [[songs/Bazooka Bubblegum|Bazooka Bubblegum]]
 - [[songs/Bean Song|Bean Song]]
+- [[songs/Beautiful Song|Beautiful Song]]
 - [[songs/Boogaloo|Boogaloo]]
 - [[songs/Boom Chick-a Boom|Boom Chick-a Boom]]
 - [[songs/Bump Another Butt|Bump Another Butt]]
